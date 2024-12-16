@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(10, 120, 184);
+    color: rgb(2, 225, 254);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    text-align: center;
+    color:yellow;
+}
+
+p {
+    text-align: center;
+}
+
+form {
+    background:rgb(5, 124, 183);
+    padding:40px;
+    border: 8px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(rgb(9, 80, 220), rgb(11, 138, 11), rgb(14, 14, 157), alpha);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+input, textarea{
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="sumbit"] {
+    background-color: rgb(19, 127, 203);
+    color: white;
+    font-weight: 700;
+    border: none;
+    cursor:pointer
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    text-align:center;
+}
+ 
+ul li {
+    margin: 5px 0;
+}
+
+footer{
+    text-align: ;
+}
+img{
+    width: 50%;
+}
